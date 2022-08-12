@@ -1,0 +1,15 @@
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\bin\Debug\UrunAramaUygulamasi.exe.config
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\bin\Debug\UrunAramaUygulamasi.exe
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\bin\Debug\UrunAramaUygulamasi.pdb
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\obj\Debug\UrunAramaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\obj\Debug\UrunAramaUygulamasi.Form1.resources
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\obj\Debug\UrunAramaUygulamasi.Properties.Resources.resources
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\obj\Debug\UrunAramaUygulamasi.csproj.GenerateResource.cache
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\obj\Debug\UrunAramaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\obj\Debug\UrunAramaUygulamasi.exe
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\obj\Debug\UrunAramaUygulamasi.pdb
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehmet baran\source\repos\UrunAramaUygulamasi\UrunAramaUygulamasi\obj\Debug\UrunAramaUygulamasi.csproj.CopyComplete
